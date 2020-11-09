@@ -1,0 +1,6 @@
+C:\Curso\20483\Luismi\LabFiles\Mod13_L20483\Labfiles\Starter\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.dll
+C:\Curso\20483\Luismi\LabFiles\Mod13_L20483\Labfiles\Starter\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.pdb
+C:\Curso\20483\Luismi\LabFiles\Mod13_L20483\Labfiles\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.csprojAssemblyReference.cache
+C:\Curso\20483\Luismi\LabFiles\Mod13_L20483\Labfiles\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.csproj.CoreCompileInputs.cache
+C:\Curso\20483\Luismi\LabFiles\Mod13_L20483\Labfiles\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.dll
+C:\Curso\20483\Luismi\LabFiles\Mod13_L20483\Labfiles\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.pdb
